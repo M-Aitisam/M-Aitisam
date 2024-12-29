@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD AITISAM AHMED</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+<img align="right" alt="coding" width="350" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aitisam&label=Profile%20views&color=0e75b6&style=flat" alt="m-aitisam" /> </p>
 
-- 💡 C# Internship: Where passion meetscode. If you need help, " **just ask me—I'm here to support!**
+- 🌟 Welcome to my GitHub 💡 **
 
-- 👯 I’m looking to collaborate on **My Personal Project**
-
-- 🤝 I’m looking for help with **Personal Projects**
+- Here, innovation thrives, and every repository is a glimpse into my coding journey.**
+- Join me as we navigate the ever-evolving landscape of technology.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aitisam-ahmed-9395b62a0/](https://www.linkedin.com/in/aitisam-ahmed-9395b62a0/)
 
