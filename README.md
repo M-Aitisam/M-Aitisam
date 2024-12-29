@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD AITISAM AHMED</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="350" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+<img align="right" alt="coding" width="350" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHM1NXl5LVIzUWkwMDU4V094S2RUbVhMYU80Z3xBQ3Jtc0trWk45VU9MUEtsbVNXcnJCZmJOd25PZXE5SmtOS1VXSDktX2IxdHZSSHRvbC1ZVnFoRTNnTEU0QVpRc1BpMlBxQXVITlZ6NWY1T2xRYUZkemtiX20tSTZ1ZENraGcweDdWdlp5NVZrM2ZET01vMFVOYw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-aitisam&label=Profile%20views&color=0e75b6&style=flat" alt="m-aitisam" /> </p>
 
-- 🌟 Welcome to my GitHub 💡 **
+- 🌟 Welcome to my GitHub 🙌
 
-- Here, innovation thrives, and every repository is a glimpse into my coding journey.**
-- Join me as we navigate the ever-evolving landscape of technology.**
+
+- Join me as we navigate the ever-evolving landscape of technology.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aitisam-ahmed-9395b62a0/](https://www.linkedin.com/in/aitisam-ahmed-9395b62a0/)
 
-- 💡 If you need help or guidance [I'm here to provide the support and services you need! 🚀](I'm here to provide the support and services you need! 🚀)
+- 💡 If you need help or guidance [I'm here to provide the support and services you need! 🚀]
+
 
 - 💬 Ask me about **React ,C# , Asp.Net , Sql Server,**
 
